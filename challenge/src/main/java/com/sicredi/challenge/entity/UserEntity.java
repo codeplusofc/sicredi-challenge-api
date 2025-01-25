@@ -1,0 +1,14 @@
+package com.sicredi.challenge.entity;
+
+public class UserEntity {
+
+    private String nome;
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+}
